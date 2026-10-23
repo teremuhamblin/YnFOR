@@ -29,7 +29,9 @@
 ---
 
 ### 🚀 Objectifs du projet
+
 [![Test](https://github.com/teremuhamblin/YnFOR/actions/workflows/test.yml/badge.svg)](https://github.com/teremuhamblin/YnFOR/actions/workflows/test.yml)
+
 ```text
 - Fournir une architecture claire et modulaire  
 - Offrir une documentation professionnelle et centralisée  
@@ -45,6 +47,7 @@
 
 ![YnFOR Bot](assets/badge/bot.svg)
 
+```text
 - 📚 Documentation complète
 >(`/docs/`)  
 - 🔧 Workflows GitHub Actions
@@ -58,10 +61,12 @@
 - 🧪 Tests et bonnes pratiques  
 - 🗂️ Templates d’issues et de PR  
 - 📄 Roadmap, Changelog, Licence  
+```
 
 ---
 
 ### 📁 Structure du dépôt
+- Projet de base
 ```text
 /
 ├── src/                     # Code source (si applicable)
@@ -72,6 +77,8 @@
 ├── README.md                # Ce fichier
 └── package.json / autres    # Selon la stack
 ```
+
+>> **VOIR ~/STRUCTURE.md**
 
 ---
 
@@ -135,11 +142,13 @@ Les vulnérabilités doivent être signalées à :
 </svg>
 
 Les workflows GitHub Actions assurent :
+```text
 - Vérifications automatiques  
 - Tests  
 - Analyse statique  
 - Release management  
-- Mise à jour des badges  
+- Mise à jour des badges
+```  
 Voir :  
 ###### 👉 `.github/workflows/`
 
@@ -170,4 +179,3 @@ Tu peux soutenir YnFOR via GitHub Sponsors :
 ###### YnFOR n’est pas seulement un dépôt.  
 C’est une base technologique, une méthodologie, une identité, un standard de qualité.
 ###### Un projet conçu pour durer, évoluer, et servir de fondation à des solutions informatiques modernes, propres et professionnelles.
-
